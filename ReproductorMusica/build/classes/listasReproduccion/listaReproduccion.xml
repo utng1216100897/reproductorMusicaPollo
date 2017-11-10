@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<canciones>
+	
+	
+	
+<cancion>
+<id>1</id>
+<titulo>Beso a beso te quiero</titulo>
+<genero>Banda</genero>
+<artista>La arrolladora</artista>
+<album>te quiero</album>
+<year>2017</year>
+<ruta>C:\Users\gerardo\Desktop\escritorio\musica_chida\La Arrolladora Banda El Limón De René Camacho - Entre Beso Y Beso.mp3</ruta>
+</cancion>
+<cancion>
+<id>2</id>
+<titulo>Te vas</titulo>
+<genero>Banda</genero>
+<artista>Perdidos de sinaloa</artista>
+<album>olvido</album>
+<year>2016</year>
+<ruta>C:\Users\gerardo\Desktop\escritorio\musica_chida\teVas.mp3</ruta>
+</cancion>
+<cancion>
+<id>3</id>
+<titulo>PassionFruit</titulo>
+<genero>Rap</genero>
+<artista>Drake</artista>
+<album>desconocido</album>
+<year>2017</year>
+<ruta>C:\Users\gerardo\Desktop\escritorio\musica_chida\Drake - Passionfruit (Letra Ingles y Español).mp3</ruta>
+</cancion>
+</canciones>
